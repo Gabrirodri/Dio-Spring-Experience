@@ -18,22 +18,23 @@ import java.util.*;
             String[] s = string.split(" ");
  
             double[] idade = new double[N];
- 
+            
             for (int i = 0; i < N; i++)
             {
-                idade[i] =          ;
+                idade[i] = scan.nextDouble();
             }
  
  
             System.out.println("Nao poderao entrar as idades: ");
             for (int i = 0; i < N; i++)
             {
-                if (           )
+                if (idade[i] < 18)
                 {
-                    System.out.println(         );
+                    System.out.println(String.format("%.0f", idade[i]));
                 }
  
             }
                    
         }
     }
+    
