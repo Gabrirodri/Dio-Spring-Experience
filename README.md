@@ -16,5 +16,7 @@ Se te ajudei de alguma forma, ficarei feliz em saber.
 
 
 Se possível:
+
 ⭐️ Star o projeto
+
 🐛 Encontrar e relatar issues
